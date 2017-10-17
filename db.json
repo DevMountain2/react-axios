@@ -1,22 +1,58 @@
 {
   "customers": [
     {
-      "id": 1,
-      "first": "Bob",
-      "last": "Joe",
-      "status": "2015 macbook pro in for repair",
-      "email": "bobjoe@gmail.com",
-      "phone": "(386)-543-2353",
-      "log": "This\nis\na\ntest\nlog"
-    },
-    {
       "id": 2,
-      "first": "Sarah",
+      "first": "Sarahxxx",
       "last": "Croft",
       "status": "No repairs in progress",
       "email": "sarahcroft@gmail.com",
       "phone": "(325)-345-2352",
       "log": "This\nis\nanother\ntest\nlog"
+    },
+    {
+      "first": "sdfsdf",
+      "last": "sdfsdf",
+      "email": "sdfsd",
+      "phone": "sdfsdf",
+      "status": "New Customer",
+      "log": "",
+      "id": 3
+    },
+    {
+      "first": "Riley",
+      "last": "Breadzzzz",
+      "email": "riBreadz@skurb.com",
+      "phone": "1-800-Ri-breadz",
+      "status": "New Customer",
+      "log": "",
+      "id": 4
+    },
+    {
+      "first": "Riley",
+      "last": "Breadzzzz",
+      "email": "riBreadz@skurb.com",
+      "phone": "1-800-Ri-breadz",
+      "status": "New Customer",
+      "log": "",
+      "id": 5
+    },
+    {
+      "first": "erer",
+      "last": "rer",
+      "email": "erer",
+      "phone": "erer",
+      "status": "New Customer",
+      "log": "",
+      "id": 6
+    },
+    {
+      "first": "erer",
+      "last": "rer",
+      "email": "erer",
+      "phone": "erer",
+      "status": "New Customer",
+      "log": "",
+      "id": 7
     }
   ]
 }
